@@ -1,0 +1,10 @@
+site_name: Chase Docs
+site_url: https://mydomain.org/mysite
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects:
+    - Vite: ./projects/vite.md
+    - electron: ./projects/electron.md
+theme:
+  name: material
