@@ -7,5 +7,5 @@ nav:
     - Vite: ./projects/vite.md
     - electron: ./projects/electron.md
 theme:
-  name: mcdocs
-  
+  name: mkdocs
+
